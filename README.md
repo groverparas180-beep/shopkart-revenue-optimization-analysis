@@ -2,7 +2,7 @@
 
 # Project Overview
 This project analyzes 50,000+ e-commerce transactions (2023–2024) to evaluate:
- Full Report (PDF): [Download Here](./ShopKart_Revenue_Optimization_Analysis_Paras_Grover.pdf)
+ Full Report (PDF): [Download Here](./ShopKart_Revenue_Optimization_Analysis_Paras_Grover.PDF)
 
 - Revenue stability
 - Revenue drivers
